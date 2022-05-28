@@ -1,9 +1,6 @@
 ## 😄 Hi, I'm Chaeyeon Lee.
-<div style="border-raduis: 100%; overflow:hidden; width: 250px;">
-  
-<img style="width: 100%;" src="https://phrygia.github.io/static/80327bd7c3142ee7175fc1b9d91f0209/phrygia.gif">
-  
-</div>
+
+<img src="https://phrygia.github.io/static/80327bd7c3142ee7175fc1b9d91f0209/phrygia.gif" height="auto" width="300" style="border-radius:100%">
 
 
 <i>Welcome to my page!</i> <br>
