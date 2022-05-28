@@ -28,4 +28,29 @@ const phrygia = {
   tools: [React, Redux, Node, Styled-Components],
   interest: ["Code Reusability", "Refactoring", "Testing", "Review"]
 }
-```
+``` 
+<br>
+
+### Personal project.
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/phrygia/simple-talk" title="Simple talk">
+          <img align="center" src="https://user-images.githubusercontent.com/40693181/170808412-1f61c8be-3897-4942-af44-e8f99a1b2318.jpg" width="300" alt-text="Frontend Roadmap">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/phrygia/react-blog" title="React blog">
+          <img align="center" src="https://user-images.githubusercontent.com/40693181/170808442-3096a202-7d01-46b7-84eb-99cfc2f506af.jpg" width="300" alt-text="">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/phrygia/financial_ledger" title="Financial ledger">
+        <img align="center" src="https://user-images.githubusercontent.com/40693181/170808288-e2a662d3-eab3-4ace-b7ab-35f8e48505e9.jpg" width="300" alt-text="Git tutorial">
+          </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
