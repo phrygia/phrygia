@@ -15,10 +15,10 @@
 ![React][Next.js](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)<br><br>
-+ Rcoil
-+ React-Query
-
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+[Rcoil]
+[React-Query]
+<br><br>
 
 ### A little more about me.
 ```javascript
