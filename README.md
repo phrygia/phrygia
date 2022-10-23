@@ -12,12 +12,13 @@
 ![Scss](https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React][Next.js](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) <br>
 [Rcoil]
 [React-Query]
+[Next.js]
 <br><br>
 
 ### A little more about me.
