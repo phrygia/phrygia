@@ -27,7 +27,7 @@ const phrygia = {
   name: "Lee chaeyeon",
   pronouns: "she" | "her",
   blog: "https://phrygia.github.io",
-  code: [JS, TS, HTML5, CSS3],
+  code: [JS, TS, HTML5, CSS3, SCSS],
   tools: [React, Redux, Node, Styled-Components],
   interest: ["Code Reusability", "Refactoring", "Testing", "Review"]
 }
