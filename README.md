@@ -21,7 +21,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff) <br>
-
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)<br>
 <br><br>
 
 ### A little more about me.
@@ -30,7 +30,7 @@ const phrygia = {
   name: "Lee chaeyeon",
   pronouns: "she" | "her",
   blog: "https://phrygia.github.io",
-  code: [JS, TS, HTML5, CSS3, SCSS, DART],
+  code: [JS, TS, HTML5, CSS3, SCSS, DART, JAVA],
   interest: ["Productivity", "Code Reusability", "Refactoring", "Testing", "Review"]
 }
 ``` 
